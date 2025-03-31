@@ -10,11 +10,11 @@
 
 
 ## Tool
-1. Excel [Documentation]
-2. MSSQL Server
-3. Power BI
+1. Excel [Dataset]
+2. MSSQL Server [Used to created a Dashboard and used as a server to connect to the Dashboard]
+3. Power BI [Used for Visualization]
 
-## Asces Company Profile
+#### Asces Company Profile
 Asces Sound is a leading innovator in the audio technology industry, dedicated to providing high-quality audio solutions for professionals and enthusiasts alike. With a focus on exceptional sound clarity, advanced engineering, and user-friendly designs,
 
 Asces Sound has established itself as a trusted name among musicians, content creators, and audio engineers worldwide.
@@ -25,7 +25,7 @@ Driven by a passion for sound innovation, Asces Sound strives to empower its cus
 
 
 
-# Request from Management
+#### Request from Management
 # Subject: Request for Dashboard Development: Product Analytics Overview
 
 Dear Data Analysts,
